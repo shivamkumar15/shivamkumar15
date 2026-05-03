@@ -1,99 +1,21 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on Aegixa<br>👯 I’m looking to collaborate on Dranzer<br>🤝 I’m looking for help with PublicPolicyHub<br>🌱 I’m currently learning game development in unity <br>⚡ Fun fact i am passionate learner 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=200&section=header&text=Shivam%20Kumar&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20developer%20building%20awesome%20things.&descSize=16&descAlignY=55" width="100%" />
 
-[![GitHub followers](https://img.shields.io/github/followers/shivamkumar15?label=Follow&style=social)](https://github.com/shivamkumar15) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=shivamkumar15&color=58a6ff&style=flat-square)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sniperxmaster__15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-kumar-294b032303) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamk4025@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shivamkumar15&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shivamkumar15&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivamkumar15&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h2 align="center">🧑‍💻 About Me</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shivamkumar15&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
-- 🔭 I have **13** public repositories on GitHub
-- 🌍 Based from Bihar,Patna
-- ⭐ **1** total stars earned across my projects
-- 👥 **0** followers · **1** following
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-### Languages
-![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-
-### Frameworks & Tools
-![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-
-</div>
-
----
-
-<h2 align="center">🚀 Top Projects</h2>
-
-| Project | Description | Stars | Language |
-|---------|-------------|-------|----------|
-| [**ChatApp**](https://github.com/shivamkumar15/ChatApp) | — | ⭐ 1 | JavaScript |
-| [**shivamkumar15**](https://github.com/shivamkumar15/shivamkumar15) | — | ⭐ 0 | — |
-| [**Aegixa**](https://github.com/shivamkumar15/Aegixa) | Safety based application | ⭐ 0 | Dart |
-| [**Dranzer**](https://github.com/shivamkumar15/Dranzer) | Hypeland Dotfiles | ⭐ 0 | CSS |
-| [**PublicPolicyHub**](https://github.com/shivamkumar15/PublicPolicyHub) | — | ⭐ 0 | JavaScript |
-| [**Termin**](https://github.com/shivamkumar15/Termin) | Termin is a appominmet Scheduler app which help people to book meeting with people | ⭐ 0 | HTML |
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-![](https://img.shields.io/badge/Total_Stars-1-58a6ff?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Repositories-12-3fb950?style=for-the-badge&logo=bookmarks&logoColor=white) ![](https://img.shields.io/badge/Followers-0-bc8cff?style=for-the-badge&logo=people&logoColor=white) ![](https://img.shields.io/badge/Forks-0-d29922?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-<h2 align="center">💬 Top Languages</h2>
-
-<div align="center">
-
-![](https://img.shields.io/badge/HTML-36.0%-e34c26?style=for-the-badge) ![](https://img.shields.io/badge/CSS-33.4%-563d7c?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-26.9%-f1e05a?style=for-the-badge) ![](https://img.shields.io/badge/Dart-3.6%-00B4AB?style=for-the-badge) ![](https://img.shields.io/badge/Python-0.1%-3572A5?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-0.0%-3178c6?style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=shivamkumar15&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-![](https://img.shields.io/badge/⭐_Star_Gazer-1_Stars-C0C0C0?style=for-the-badge) ![](https://img.shields.io/badge/📁_Repository_Pro-12_Repos-3fb950?style=for-the-badge) ![](https://img.shields.io/badge/🔤_Polyglot-6_Languages-0077B6?style=for-the-badge) ![](https://img.shields.io/badge/🎖️_Veteran-Since_2021-2E8B57?style=for-the-badge)
-
-</div>
-
----
-
-<h2 align="center">📫 Connect with Me</h2>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamkumar15)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star my repos if you find them useful! ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=80&section=footer" width="100%" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
