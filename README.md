@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sailor<br>👯 I’m looking to collaborate on Dranzer<br>🤝 I’m looking for help with PublicPolicyHub<br>🌱 I’m currently learning game development in unity <br>⚡ Fun fact i am passionate learner 
-
+🔭 I’m currently working on Sailor<br>👯 I’m looking to collaborate on Dranzer<br>🤝 I’m looking for help with PublicPolicyHub<br>🌱 I’m currently learning game development in unity <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sniperxmaster__15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-kumar-294b032303) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamk4025@gmail.com) 
