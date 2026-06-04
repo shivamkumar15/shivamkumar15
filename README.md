@@ -9,12 +9,5 @@ i am a developer descovering life in computer science and i love being a student
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shivamkumar15&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shivamkumar15&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivamkumar15&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shivamkumar15&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivamkumar15&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compa
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
