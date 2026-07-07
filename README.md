@@ -9,3 +9,11 @@ i am a developer descovering life in computer science and i love being a student
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivamkumar15&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shivamkumar15/shivamkumar15/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/shivamkumar15/shivamkumar15/output/github-contribution-grid-snake.svg">
+</picture>
