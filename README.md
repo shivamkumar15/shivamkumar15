@@ -1,6 +1,5 @@
 # About Me:
-i am a developer descovering life in computer science and i love being a student because i get to learn new things everyday. i am the founder and ceo of Ypomoni 
-
+i am a developer descovering life in computer science and i love being a student because i get to learn new things everyday. 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sniperxmaster__15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-kumar-294b032303) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamk4025@gmail.com) 
 
